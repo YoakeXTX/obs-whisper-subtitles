@@ -1,6 +1,6 @@
 
 # THIS IS A PRE-ALPHA OF THE PROJECT. IN ORDER TO MAKE IT WORK YOU HAVE TO NEED SOME KNOWLEDGE OF THE SUBJECT 
-
+Recommended: Use Linux or WSL for better compatibility with CUDA drivers
 
 # OBS Whisper Subtitles Generator
 
